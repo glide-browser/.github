@@ -1,4 +1,4 @@
-<img src="https://github.com/glide-browser/glide/blob/main/src/glide/docs/logo.png?raw=true" alt="Glide" align="left" width="350" height="350">
+<img src="https://github.com/glide-browser/glide/blob/main/configs/branding/glide/logo512.png?raw=true" alt="Glide" align="left" width="350" height="350">
 
 ### Glide Browser
 
